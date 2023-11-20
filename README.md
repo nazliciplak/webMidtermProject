@@ -10,6 +10,8 @@ This project includes a bank website design called ApricotBank. It features a us
 
 index.html: Main HTML file. style.css: The CSS file contains the website's style definitions. /picture: The folder containing visual files.
 
-# How to use Download this repository to your computer: git clone https://github.com/nazliciplak/web.git To view the project in a browser, open the index.html file.
+# How to use Download
+This repository to your computer: git clone https://github.com/nazliciplak/web.git To view the project in a browser, open the index.html file.
 
-Communication If you have any questions or suggestions, please feel free to contact. Contact nazliciplakk@gmail.com
+# Communication
+If you have any questions or suggestions, please feel free to contact. Contact nazliciplakk@gmail.com
