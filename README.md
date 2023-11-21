@@ -22,7 +22,7 @@ Mobile Application and Services: The Footer section contains information about A
 index.html: Main HTML file. style.css: The CSS file contains the website's style definitions. /picture: The folder containing visual files.
 
 # How to use Download
-This repository to your computer: git clone https://github.com/nazliciplak/webproject.git To view the project in a browser, open the index.html file.
+This repository to your computer: git clone https://github.com/nazliciplak/webMidtermProject.git To view the project in a browser, open the index.html file.
 
 # Communication
 If you have any questions or suggestions, please feel free to contact. Contact nazliciplakk@gmail.com
