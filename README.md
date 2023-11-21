@@ -1,5 +1,5 @@
 # webproject
-github link:https://github.com/nazliciplak/webMidtermProject
+Nazlı Çıplak 200709061 -github link:https://github.com/nazliciplak/webMidtermProject
 # Project name
 ApricotBank Website
 
